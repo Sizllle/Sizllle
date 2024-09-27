@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello! 👋 I'm Vladyslav Kuzminov 
+
+🎓 Student from Ukraine
+📚 Associate's and Bachelor's Degree holder, currently pursuing a Master's Degree.
+🚀 Backend Developer with a focus on Java.
+📱 Mobile Development enthusiast using Kotlin.
 
 <!--
 **Sizllle/Sizllle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
